@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="https://cdn.jsdelivr.net/gh/jscdn/svg@1.0.1/bhadoo-cloud-logo.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/jscdn/svg@1.0.1/bhadoo-cloud-logo.svg" height="80" />](https://github.com/ParveenBhadooOfficial/Bhadoo-Cloud)
+[<img src="logo.jpg" data-canonical-src="logo.jpg" height="80" />]()
 
 Fetch Torrents using .torrent file or Magnet Links, Fetch Files from Other Servers to Own Server and Upload to Google Drive.
 
